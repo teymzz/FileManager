@@ -1,0 +1,2 @@
+#Resource
+Resource is a PHP class used for grouping files (html, css, javscript and php) which can later be imported into the webpage. This means the developer doesn't have to import a group that is not needed. This class also comes with an embedded live server only for PHP files. This class is dependent on a much larger php framework built by me. 
